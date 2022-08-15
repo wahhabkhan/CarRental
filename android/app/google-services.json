@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "608490277535",
+    "project_id": "rentel-car",
+    "storage_bucket": "rentel-car.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608490277535:android:14d7e24582fb67975270aa",
+        "android_client_info": {
+          "package_name": "com.nabana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608490277535-3vouua6d0s76vjf494qgm39ee9vavfpv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nabana",
+            "certificate_hash": "82ff75439d805e44f40243dd602b1ae6c4fbba4b"
+          }
+        },
+        {
+          "client_id": "608490277535-8f6kfre0f6eagspm35v9lbqieadkbgdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVpqsrzKBCV5_3m29t2fCtW7antO7yZEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608490277535-8f6kfre0f6eagspm35v9lbqieadkbgdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
